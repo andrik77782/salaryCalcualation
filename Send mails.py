@@ -15,8 +15,8 @@ subject = 'Нарахування за січень'
 # Параметри електронної пошти
 smtp_server = 'smtp.gmail.com'
 port = 587 
-sender_email = 'slyusarenko@aimm-group.com'
-password = '$Aimm2020$'
+sender_email = ''
+password = ''
 
 #витягуємо файли з розрахунками
 file_list = []
